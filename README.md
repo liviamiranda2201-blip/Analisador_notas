@@ -27,8 +27,5 @@ Ele permite que o usuário digite várias notas e retorna:
 
 ---
 
-## 🔹 Como usar
-
-1. Clone ou baixe o repositório:  
-```bash
-git clone <URL_DO_REPOSITORIO>
+## 🔹 Colab
+https://colab.research.google.com/drive/1Oqwc4dXl7L5k3lqAmgoqDmCxtFvY49lP#scrollTo=J7dCXAa6_ceC
